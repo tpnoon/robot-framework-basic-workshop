@@ -1,0 +1,5 @@
+host: https://reqres.in
+
+api:
+  login: /api/login
+  single_user: /api/users/
